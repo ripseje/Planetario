@@ -9,16 +9,36 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
-        <item
             android:id="@+id/planeta01Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta01" />
+            android:title="Mercurio" />
+        <item
+            android:id="@+id/planeta02Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Venus" />
+        <item
+            android:id="@+id/planeta03Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="La Tierra" />
+        <item
+            android:id="@+id/planeta04Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Marte" />
+        <item
+            android:id="@+id/planeta05Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Júpiter" />
+        <item
+            android:id="@+id/planeta06Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Saturno" />
+        <item
+            android:id="@+id/planeta08Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Urano" />
+        <item
+            android:id="@+id/planeta09Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Neptuno" />
     </group>
 </menu>
